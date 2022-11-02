@@ -1,2 +1,3 @@
 Github on failide salvestamiseks. Kus kõik saavad seda näha ja kasutada. Seda peamiselt kasutavad programeeriad, firmad ja õpilased.
 Ma kasutan github edasipidi koolis õppimiseks. 
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
